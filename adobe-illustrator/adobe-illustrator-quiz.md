@@ -27,7 +27,7 @@
 
 #### Q4. Which action closes a path when you are actively drawing with the Pen tool?
 
-- [ ] clicking or dragging the first point in the path
+- [x] clicking or dragging the first point in the path
 - [ ] choosing Object > Path > Join
 - [ ] pressing Return (Mac) or Enter (Windows)
 - [ ] switching to a different tool
@@ -52,7 +52,7 @@
 
 `A map of Southern California includes many info circles shaded in light blue.`
 
-- [ ] Recolor Artwork
+- [x] Recolor Artwork
 - [ ] Select > Same > Appearance
 - [ ] Edit Colors
 - [ ] Live Paint
@@ -147,7 +147,7 @@
 
 #### Q20. You're working with a pen tablet and find that using the Ellipse, Rectangle, and Polygon tools to create objects is somewhat awkward. Which tool would allow you to draw, move, and edit these shapes with intuitive gestures?
 
-- [ ] the Smooth tool
+- [x] the Smooth tool
 - [ ] the Shape Builder tool
 - [ ] the Pencil tool
 - [ ] the Shaper tool
